@@ -19,7 +19,7 @@ Make a single page application which changes the body of the background based on
 ### Screenshot
 
 ![mobile](Capture080.png)
-![desktop](Capture079.png)
+![desktop](Captur 079.png)
 
 
 ### Links
