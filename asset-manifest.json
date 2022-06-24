@@ -1,10 +1,10 @@
 {
   "files": {
-    "main.css": "/static/css/main.f60585f3.css",
-    "main.js": "/static/js/main.a186a85a.js",
-    "index.html": "/index.html",
-    "main.f60585f3.css.map": "/static/css/main.f60585f3.css.map",
-    "main.a186a85a.js.map": "/static/js/main.a186a85a.js.map"
+    "main.css": "/year-seasons/static/css/main.f60585f3.css",
+    "main.js": "/year-seasons/static/js/main.a186a85a.js",
+    "index.html": "/year-seasons/index.html",
+    "main.f60585f3.css.map": "/year-seasons/static/css/main.f60585f3.css.map",
+    "main.a186a85a.js.map": "/year-seasons/static/js/main.a186a85a.js.map"
   },
   "entrypoints": [
     "static/css/main.f60585f3.css",
